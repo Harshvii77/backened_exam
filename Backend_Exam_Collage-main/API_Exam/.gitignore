@@ -1,0 +1,30 @@
+## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore build folders
+bin/
+obj/
+
+## Ignore Rider
+.idea/
+
+## Ignore VS Code
+.vscode/
+
+## Ignore logs
+*.log
+
+## Ignore publish folder
+publish/
+
+## Ignore secrets
+appsettings.Development.json
+secrets.json
+
+## Ignore OS files
+.DS_Store
+Thumbs.db
