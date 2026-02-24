@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace API_Exam_23010101161.Models;
+namespace API_Exam.Models;
 
 public partial class User
 {

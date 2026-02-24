@@ -1,9 +1,9 @@
-﻿using API_Exam_23010101161.Models;
+﻿using API_Exam.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace API_Exam_23010101161.Controllers
+namespace API_Exam.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

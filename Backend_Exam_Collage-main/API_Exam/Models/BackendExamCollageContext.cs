@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace API_Exam_23010101161.Models;
+namespace API_Exam.Models;
 
 public partial class BackendExamCollageContext : DbContext
 {
